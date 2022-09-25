@@ -17,3 +17,5 @@ backend: Node.js, MongoDB
 
 - redux promise: redux한테 promise 받는 법을 알려준다.
 - redux thunk: redux한테 function을 받는 법을 알려준다.
+
+2. nodemon을 사용하여 보다 편하게 개발환경 실행
